@@ -110,7 +110,7 @@ input[type="button"] {
     rgba(48, 139, 168, 1) 0%,
     rgba(51, 53, 127, 1) 56%
   );
-  margin: auto;
+  margin-bottom: 10px;
   padding: 10px 100px;
   border: 0;
   border-radius: 5px;
