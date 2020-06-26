@@ -8,3 +8,6 @@ body {
   margin: 0;
   font-family: "Raleway", sans-serif;
 }
+* {
+  transition: all 0.1s linear;
+}

@@ -43,7 +43,7 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
   padding: 40px;
   width: 50%;
   background: linear-gradient(
@@ -117,6 +117,7 @@ input[type="button"] {
   box-sizing: border-box;
   border: 1px solid rgba(48, 139, 168, 1);
   transition: all 1s;
+  outline: none;
 }
 @media (max-width: 500px) {
   input[type="button"] {
